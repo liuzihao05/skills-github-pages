@@ -1,4 +1,4 @@
 ---
 title:"My-first-web-writings"
-date:2025-3-7
+date:2025-03-07
 ---
